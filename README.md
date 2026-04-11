@@ -8,12 +8,10 @@ I'm a Backend Programer. <br>I have developed applications in several technologi
 
 - [RentiFul](https://github.com/Leo0o00/RentiFul) - Platform currently under development for viewing and renting properties
 - [Saldo](https://github.com/Leo0o00/Saldo) - Finance application prototype for future saas
+- [Fitgirl/Fuckingfast-DDL](https://github.com/Leo0o00/fg-direct-links-getter) - Site to list the real direct download links of the site "Fucking Fast" on fitgirl's homepage
 - [Workout-Tracker](https://github.com/Leo0o00/workout_tracker) - I intend for this to be my own tool for tracking my progress in my workouts.
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardocastillo00)
 [![Static Badge](https://img.shields.io/badge/MyPortfolio-white?style=social&logo=protondrive)](https://leonardo-portfolio-five.vercel.app/)
-
-
-
