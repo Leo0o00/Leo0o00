@@ -6,7 +6,7 @@ I'm a Backend Programer. <br>I have developed applications in several technologi
 
 ## Current Projects
 
-- [Echo](https://github.com/Leo0o00/echo)
+- [Echo](https://github.com/Leo0o00/echo) - AI powered B2B customer support platform
 - [RentiFul](https://github.com/Leo0o00/RentiFul) - Rental management platform for discovering properties, submitting rental applications, and managing the relationship between tenants and property managers.
 - [Saldo](https://github.com/Leo0o00/Saldo) - Finance application prototype for future saas
 - [Fitgirl/Fuckingfast-DDL](https://github.com/Leo0o00/fg-direct-links-getter) - Site to list the real direct download links of the site "Fucking Fast" on fitgirl's homepage
